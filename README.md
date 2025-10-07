@@ -1,6 +1,6 @@
 # Descriptive Analytics for a Global Supermarket's Targeted Advertising Campaign
 
-## Introduction
+I submitted this project for the final assignment of the six-week Data Analytics for Business course in the LSE Data Analytics Career Accelerator programme.
 
 ## Files
 [Project Overview](https://chrisdbuck.github.io/DA-course-1-project/project_1_overview.html)

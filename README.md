@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Files
-[Project Overview](https://chrisdbuck.github.io/DA-course-1-project/overview.html)
+[Project Overview](https://chrisdbuck.github.io/DA-course-1-project/project_1_overview.html)
 
 [Tableau Workbook](https://chrisdbuck.github.io/DA-course-1-project/project_1_dashboards.twbx)
 

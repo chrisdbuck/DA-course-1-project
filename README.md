@@ -8,3 +8,5 @@
 [Tableau Workbook](https://chrisdbuck.github.io/DA-course-1-project/project_1_dashboards.twbx)
 
 [Technical Report](https://chrisdbuck.github.io/DA-course-1-project/project_1_technical_report.pdf)
+
+[SQL Code](https://chrisdbuck.github.io/DA-course-1-project/project_1_sql_code.sql)

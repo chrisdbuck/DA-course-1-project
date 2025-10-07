@@ -9,4 +9,4 @@
 
 [Technical Report](https://chrisdbuck.github.io/DA-course-1-project/project_1_technical_report.pdf)
 
-[SQL Code](https://chrisdbuck.github.io/DA-course-1-project/project_1_sql_code.sql)
+[SQL Code](https://chrisdbuck.github.io/DA-course-1-project/project_1_sql_code.sql](https://github.com/chrisdbuck/DA-course-1-project/blob/main/project_1_sql_code.sql)
